@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875821077584",
+    "firebase_url": "https://tintin-93d91.firebaseio.com",
+    "project_id": "tintin-93d91",
+    "storage_bucket": "tintin-93d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875821077584:android:3dec7239d197da75",
+        "android_client_info": {
+          "package_name": "com.example.tintin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875821077584-bg6jdbh2fqtmcoo50nn28fekudji7vmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tintin",
+            "certificate_hash": "c1a326dde72c54697a819686d6cdbf4dc5ccc75b"
+          }
+        },
+        {
+          "client_id": "875821077584-lt3ih69nfo832k4k68objrcothsonm2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDXxhksaMyIW6bpgICqoRR2Xa1tZv0WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875821077584-lt3ih69nfo832k4k68objrcothsonm2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
